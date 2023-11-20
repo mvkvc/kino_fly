@@ -1,0 +1,16 @@
+# test
+
+```elixir
+Mix.install([
+  # {:kino_fly, git: "https://github.com/mvkvc/kino_fly.git"}
+  {:kino_fly, path: "."}
+])
+```
+
+## Section
+
+<!-- livebook:{"attrs":{"app":"mvkvc-protohackers","auto_refresh":true,"hostname":"https://api.machines.dev","image":"flyio/fastify-functions","region":"arn","token":"FJU9oak6yf4GAD1n9H97em80SC8NXZsxKgTPeAEs1WA"},"chunks":null,"kind":"Elixir.KinoFly","livebook_object":"smart_cell"} -->
+
+```elixir
+:ok
+```
